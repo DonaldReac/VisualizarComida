@@ -667,7 +667,7 @@ border-bottom: 3px solid rgb(255, 255, 255);
        <property name="geometry">
         <rect>
          <x>0</x>
-         <y>-1529</y>
+         <y>0</y>
          <width>732</width>
          <height>1928</height>
         </rect>
@@ -732,7 +732,7 @@ color:white;</string>
             <string/>
            </property>
            <property name="pixmap">
-            <pixmap resource="imagenes.qrc">:/img/imagenes/img/café-americano.jpg</pixmap>
+            <pixmap resource="imagenes.qrc">:/img/imagenes/img/cafe-americano.jpg</pixmap>
            </property>
            <property name="scaledContents">
             <bool>true</bool>
@@ -2351,7 +2351,7 @@ border-bottom: 3px solid rgb(255, 255, 255);
         <rect>
          <x>0</x>
          <y>0</y>
-         <width>722</width>
+         <width>739</width>
          <height>2018</height>
         </rect>
        </property>
@@ -4203,8 +4203,8 @@ border-bottom: 3px solid rgb(255, 255, 255);
        <property name="geometry">
         <rect>
          <x>0</x>
-         <y>-729</y>
-         <width>712</width>
+         <y>0</y>
+         <width>729</width>
          <height>1118</height>
         </rect>
        </property>

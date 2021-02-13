@@ -14,7 +14,6 @@
         <file>imagenes/img/huevos.jpg</file>
         <file>imagenes/img/molletes.jpg</file>
         <file>imagenes/img/cafe_capucchino.jpg</file>
-        <file>imagenes/img/café-americano.jpg</file>
         <file>imagenes/img/chocolate-caliente.jpg</file>
         <file>imagenes/img/leche.jpg</file>
         <file>imagenes/img/leche_chocolate.jpg</file>
@@ -29,5 +28,6 @@
         <file>imagenes/img/pastel_chocolate.jpg</file>
         <file>imagenes/img/regresar.png</file>
         <file>imagenes/img/salida.png</file>
+        <file>imagenes/img/cafe-americano.jpg</file>
     </qresource>
 </RCC>
